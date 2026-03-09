@@ -1,0 +1,11 @@
+{
+  "name": "lab2-file-manager",
+  "version": "1.0.0",
+  "description": "MITSO lab4 / simple Node.js file manager (Node 18 LTS).",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node ./src/index.js"
+  }
+}
+
